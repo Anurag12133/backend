@@ -56,6 +56,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  
+    "https://frontend-five-gules-78.vercel.app/"
 ]
 ROOT_URLCONF = 'json_processor.urls'
 
